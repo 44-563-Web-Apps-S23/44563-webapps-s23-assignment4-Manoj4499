@@ -41,3 +41,23 @@
     color:red;
     font-size: 22px;
 }
+
+.LUKA:hover{
+    color:blue;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+    filter: blur(2px);
+    box-shadow: 5px 10px black;
+    border-color: brown;
+}
+
+.SMIRNOV:hover{
+    color:red;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    filter: blur(2px);
+    box-shadow: 5px 10px black;
+    border-color: blueviolet;
+}
