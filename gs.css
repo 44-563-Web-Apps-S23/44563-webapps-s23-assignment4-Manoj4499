@@ -61,3 +61,13 @@
     box-shadow: 5px 10px black;
     border-color: blueviolet;
 }
+
+.MRSPOPOV:hover{
+    color:rgb(37, 231, 23);
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(235, 24, 189);
+    filter: blur(2px);
+    box-shadow: 5px 10px black;
+    border-color: blueviolet;
+}
