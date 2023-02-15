@@ -23,3 +23,17 @@
     color:brown;
     font-size: 22px;
 }
+.table-style{
+    border: 10px;
+    border-color: red;
+    background-color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+    width: 70%;
+    align-items: center;
+    padding: 10px;
+}
+
+.ntr{background-color: aqua;}
+.chiru{background-color: lightpink;}
+.vijay{background-color: lightgrey;}
+
