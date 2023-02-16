@@ -71,3 +71,14 @@
     box-shadow: 5px 10px black;
     border-color: blueviolet;
 }
+
+.myImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.material-symbols-outlined{
+    font-size: 150px !important;
+}
